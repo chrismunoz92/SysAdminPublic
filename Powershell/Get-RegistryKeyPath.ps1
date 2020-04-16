@@ -19,8 +19,6 @@ param(
     [string]$Software
 )
 
-$Software = "Symantec"
-
 $PATHS = @("HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall",
                "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall")
 

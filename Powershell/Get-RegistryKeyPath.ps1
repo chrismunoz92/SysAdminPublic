@@ -6,7 +6,7 @@ Script that returns the Registy Key Path for the Software Name you pass as a par
 The Software whose Registry Key Path you need.
 
 .NOTES   
-Name: Get-RegistyKey.ps1
+Name: Get-RegistyKeyPath.ps1
 Author: Christopher Munoz
 DateCreated: 04/16/2020
 
